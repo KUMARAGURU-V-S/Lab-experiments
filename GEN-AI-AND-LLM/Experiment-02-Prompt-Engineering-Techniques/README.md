@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KUMARAGURU-V-S/Lab-experiments/blob/main/GEN-AI-AND-LLM/Experiment-02-Prompt-Engineering-Techniques/prompt_engineering.ipynb)
+
 # Experiment 02 - Prompt Engineering Techniques for Content Generation, Reasoning and Task Automation
 
 ## Aim

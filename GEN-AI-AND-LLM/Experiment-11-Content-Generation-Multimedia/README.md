@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KUMARAGURU-V-S/Lab-experiments/blob/main/GEN-AI-AND-LLM/Experiment-11-Content-Generation-Multimedia/multimedia_gen.ipynb)
+
 # Experiment 11 - AI-Based Content Generation System for Text, Image and Multimedia Applications
 
 ## Aim

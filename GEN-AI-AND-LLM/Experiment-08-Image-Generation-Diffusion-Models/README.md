@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KUMARAGURU-V-S/Lab-experiments/blob/main/GEN-AI-AND-LLM/Experiment-08-Image-Generation-Diffusion-Models/image_generation.ipynb)
+
 # Experiment 08 - Image Generation Application Using Diffusion Models
 
 ## Aim

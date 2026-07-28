@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KUMARAGURU-V-S/Lab-experiments/blob/main/GEN-AI-AND-LLM/Experiment-04-Text-Summarization-and-QA/summarization_qa.ipynb)
+
 # Experiment 04 - Text Summarization and Question-Answering System Using Large Language Models
 
 ## Aim

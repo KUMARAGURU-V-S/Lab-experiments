@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KUMARAGURU-V-S/Lab-experiments/blob/main/GEN-AI-AND-LLM/Experiment-03-Conversational-AI-Chatbot/chatbot.ipynb)
+
 # Experiment 03 - Conversational AI Chatbot Using Transformer-Based Language Models
 
 ## Aim

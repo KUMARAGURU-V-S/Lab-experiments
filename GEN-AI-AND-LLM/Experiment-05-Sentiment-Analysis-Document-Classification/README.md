@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KUMARAGURU-V-S/Lab-experiments/blob/main/GEN-AI-AND-LLM/Experiment-05-Sentiment-Analysis-Document-Classification/sentiment_classification.ipynb)
+
 # Experiment 05 - Sentiment Analysis and Document Classification Using Foundation Models
 
 ## Aim

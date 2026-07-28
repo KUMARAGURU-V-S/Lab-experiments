@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KUMARAGURU-V-S/Lab-experiments/blob/main/GEN-AI-AND-LLM/Experiment-06-RAG-System-Vector-Databases/rag_system.ipynb)
+
 # Experiment 06 - Retrieval-Augmented Generation (RAG) System Using Vector Databases
 
 ## Aim
