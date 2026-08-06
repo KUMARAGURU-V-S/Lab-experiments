@@ -19,7 +19,7 @@ def compute_metrics(pred):
 
 def main():
     print("Loading IMDB movie reviews dataset...")
-    dataset = load_dataset("imdb")
+    dataset = load_dataset("stanfordnlp/imdb")
 
     small_train = dataset["train"].shuffle(seed=42).select(range(2000))
     small_test = dataset["test"].shuffle(seed=42).select(range(500))
